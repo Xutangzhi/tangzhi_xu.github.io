@@ -17,13 +17,13 @@ profile:
     <p>Softwiser 课题组</p>
     <p>南京大学</p>
     <p><a href="mailto:xutz@smail.nju.edu.cn">xutz@smail.nju.edu.cn</a></p>
-    <p><a href="/assets/pdf/Tangzhi_Xu_CV.pdf">英文简历 PDF</a></p>
+    <p><a href="/assets/pdf/Tangzhi_Xu_CV.pdf">简历 PDF</a></p>
 
 news: true
 selected_papers: true
 social: true
 contact_note: >
-  推荐通过邮件与我联系。<a href="/assets/pdf/Tangzhi_Xu_CV.pdf">下载英文简历</a>。
+  推荐通过邮件与我联系。<a href="/assets/pdf/Tangzhi_Xu_CV.pdf">下载简历</a>。
 ---
 
 我是南京大学计算机软件研究所 Softwiser 课题组四年级博士研究生，导师为姚远副教授和徐锋教授。
