@@ -24,6 +24,4 @@ social: true
 
 I am a third-year Ph.D. candidate in the Softwiser Group at the Institute of Computer Software, Nanjing University, supervised by Assoc. Prof. Yuan Yao and Prof. Feng Xu.
 
-My research focuses on **Large Language Models for Software Engineering**, with particular emphasis on automation and software quality. I work on problems including test suite evolution, program repair, and test generation.
-
-I am interested in building practical software intelligence techniques that can understand, maintain, and improve real-world software systems.
+My current research focuses on **Coding Agent**.

@@ -6,7 +6,7 @@
     - name: 邮箱
       value: <a href="mailto:xutz@smail.nju.edu.cn">xutz@smail.nju.edu.cn</a>
     - name: 研究方向
-      value: 面向软件工程的大语言模型、测试套件演化、程序修复、测试生成
+      value: Coding Agent
 
 - title: 教育经历
   type: time_table

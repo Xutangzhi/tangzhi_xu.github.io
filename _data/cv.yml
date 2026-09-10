@@ -6,7 +6,7 @@
     - name: Email
       value: <a href="mailto:xutz@smail.nju.edu.cn">xutz@smail.nju.edu.cn</a>
     - name: Research Interests
-      value: Large Language Models for Software Engineering, Test Suite Evolution, Program Repair, Test Generation
+      value: Coding Agent
 
 - title: Education
   type: time_table
