@@ -22,6 +22,6 @@ selected_papers: true
 social: true
 ---
 
-I am a third-year Ph.D. candidate in the Softwiser Group at the Institute of Computer Software, Nanjing University, supervised by Assoc. Prof. Yuan Yao and Prof. Feng Xu.
+I am a fourth-year Ph.D. candidate in the Softwiser Group at the Institute of Computer Software, Nanjing University, supervised by Assoc. Prof. Yuan Yao and Prof. Feng Xu.
 
 My current research focuses on **Coding Agent**.

@@ -26,6 +26,6 @@ contact_note: >
   推荐通过邮件与我联系。<a href="/assets/pdf/Tangzhi_Xu_CV.pdf">下载英文简历</a>。
 ---
 
-我是南京大学计算机软件研究所 Softwiser 课题组三年级博士研究生，导师为姚远副教授和徐锋教授。
+我是南京大学计算机软件研究所 Softwiser 课题组四年级博士研究生，导师为姚远副教授和徐锋教授。
 
 我目前的研究兴趣与问题聚焦于 **Coding Agent**。
